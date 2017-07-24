@@ -1,0 +1,18 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML>
+<html>
+<head>
+<title>首页</title>
+<style>
+	.index_h{
+		margin : auto;
+		width : 75%;
+		height : 20%;
+		text-align : center;
+		background-color : gray;
+	}
+</style>
+</head>
+<body>
+	<div class="index_h">111</div>
+</body>
+</html>
